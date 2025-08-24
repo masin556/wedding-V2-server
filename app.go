@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"net/http"
 
-	"github.com/juhonamnam/wedding-invitation-server/env"
-	"github.com/juhonamnam/wedding-invitation-server/httphandler"
-	"github.com/juhonamnam/wedding-invitation-server/sqldb"
+	"github.com/masin556/wedding-V2-server/env"
+	"github.com/masin556/wedding-V2-server/httphandler"
+	"github.com/masin556/wedding-V2-server/sqldb"
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/rs/cors"
 )

@@ -2,7 +2,8 @@ package sqldb
 
 import (
 	"database/sql"
-	"github.com/juhonamnam/wedding-invitation-server/env"
+
+	"github.com/masin556/wedding-V2-server/env"
 )
 
 var (
